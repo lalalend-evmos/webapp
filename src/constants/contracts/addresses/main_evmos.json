@@ -1,0 +1,59 @@
+{
+    "sebVault": {
+      "9000": "0x9BFEfeA5e697C88b56A8e2BcB322e5E953A37Ca1",
+      "9001": ""
+    },
+    "miaStore": {
+      "9000": "0xFBe495576F2Efafb68bB3137fc0e44a48b1c6199",
+      "9001": ""
+    },
+    "sebUnitroller": {
+      "9000": "0x3a1C7Fa5b924e02fAF3cd221804173a42F0117d6",
+      "9001": ""
+    },
+    "comptroller": {
+      "9000": "0x75eBe50E115bBe9F0399bab18Fe4719b7409c488",
+      "9001": ""
+    },
+    "oracle": {
+      "9000": "0x7191e2DE1DaDcb643C9e98F72d04bBBa66f58071",
+      "9001": ""
+    },
+    "governorBravoDelegator": {
+      "9000": "0x1A27C97B84Ba2616CF8ff48df45A3f1e44a943f4",
+      "9001": ""
+    },
+    "miaLens": {
+      "9000": "0xC28D11643D18a26f436dC85066Cbbb12168aCe7C",
+      "9001": ""
+    },
+    "miaVault": {
+      "9000": "0xB739D4615B6b3dA98b83892aD003Eece5895236F",
+      "9001": ""
+    },
+    "miaVaultProxy": {
+      "9000": "0xdf034433adB73978D328548EF21e021a8E9849DF",
+      "9001": ""
+    },
+    "miaVaultStore": {
+      "9000": "",
+      "9001": ""
+    },
+    "miaVestingProxy": {
+      "9000": "",
+      "9001": ""
+    },
+    "vrtConverterProxy": {
+      "9000": "",
+      "9001": ""
+    },
+    "vrtVaultProxy": {
+      "9000": "",
+      "9001": ""
+    },
+    "maximillion": {
+      "9000": "0x2bFf41fc8421e57365C2083E96521dAE00BbbF74",
+      "9001": ""
+    }
+  }
+  
